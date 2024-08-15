@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Guess the Number Game Script
+# Author: shadow-fighter666
+# This script is a simple number guessing game with three difficulty levels.
+# To run this script, clone the repository and execute the script using a Unix-based shell.
+
 echo "this is a game in which you have to guess number between"
 echo "1-100, 1-1000 and 1-10000 accourding to difficulty level"
 
